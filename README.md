@@ -1,1 +1,1 @@
-busbookingsystem-power_bi
+An Online Bus Ticket Booking System enables passengers to book bus tickets online for various routes. The system allows users to select buses, choose their seats, and make payments. This document explains how data for such a system is structured in Excel and visualized using Power BI.
